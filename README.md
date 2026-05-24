@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <img width="300" alt="Artboard 14 copy 2" src="https://github.com/user-attachments/assets/dc74e770-a4a4-4073-b24e-c09e68111506" />
-  <img width="300" alt="Artboard 16 copy 4" src="https://github.com/user-attachments/assets/be3857b1-7818-4f92-99f0-0b0093f8c2d8" />
+  <img width="400" alt="Artboard 16 copy 4" src="https://github.com/user-attachments/assets/be3857b1-7818-4f92-99f0-0b0093f8c2d8" />
 </p>
 
 ChiChat is a highly customizable AI chatbot and AI companion experience for everyday users. Instead of giving everyone the same assistant, ChiChat lets people assemble their own AI companion like Lego: choose the model, voice, language style, personality, memory, and interaction mode.
